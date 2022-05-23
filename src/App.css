@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Nav-bar{
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to right, #672280, #A626D3);
+
+
+}
+
+.Nav-Title{
+  color: aliceblue;
+  font-family: "Karla";
+  font-size: 20.75px;
+  font-weight: 700;
+}
+
+
+
+
+.logo{
+  margin: 20px;
+}
