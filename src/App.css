@@ -41,7 +41,7 @@
 .Nav-bar{
   display: flex;
   align-items: center;
-  background: linear-gradient(to right, #672280, #A626D3);
+  background: linear-gradient(to right, #672280 1.18%, #A626D3 100%);
 
 
 }
@@ -59,3 +59,33 @@
 .logo{
   margin: 20px;
 }
+
+#top-text , #bottom-text{
+  margin-left: 2.1rem;
+  width: 14.4rem;
+  height: 2.2rem;
+  border-radius: 0.3rem;
+  margin-top: 6.3rem;
+  border: 0.16rem solid #D5D4D8;
+  font-family: "Karla";
+}
+
+
+.meme-button{
+
+  font-family: "Karla";
+  background: linear-gradient(to right, #672280 1.18%, #A626D3 100%);
+  color: white;
+  width: 30rem;
+  height: 2.5rem;
+  margin-top: 2rem;
+  cursor: pointer;
+  border: none;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
