@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -91,4 +92,10 @@
 
 .meme-image{
   max-width: 100%;
+  margin-top: 1rem;
 }
+
+.memedisplay{
+  margin-top: 1rem;
+}
+
