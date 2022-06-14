@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: rgb(219, 196, 196);
+  background-color: rgb(196, 180, 180);
 }
 .App-logo {
   height: 40vmin;
@@ -42,7 +42,7 @@
   display: flex;
   align-items: center;
   background: linear-gradient(to right, #672280 1.18%, #A626D3 100%);
-
+  padding: 20px;
 
 }
 
@@ -51,8 +51,15 @@
   font-family: "Karla";
   font-size: 20.75px;
   font-weight: 700;
+  margin-right: auto;
 }
 
+.header--project {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: aliceblue;
+  font-family: "Karla";
+}
 
 
 

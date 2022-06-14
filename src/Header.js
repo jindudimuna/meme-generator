@@ -15,6 +15,8 @@ function Header(){
     Meme Generator
 
 </h2>
+
+<h4 className="header--project">By Jindu</h4>
         </div>
     )
 }
