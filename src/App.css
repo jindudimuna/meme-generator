@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: rgb(196, 180, 180);
+  background-color: rgb(41, 39, 39);
 }
 .App-logo {
   height: 40vmin;
@@ -39,6 +39,7 @@
   align-items: center;
   background: linear-gradient(to right, #672280 1.18%, #A626D3 100%);
   padding: 20px;
+  border-radius:5%;
 
 }
 
